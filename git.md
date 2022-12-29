@@ -24,9 +24,9 @@
 ---
 > ## Git 요약
 
-![1](1.png)
-![2](2.png)
-![3](3.png)
+![1](photo/1.png)
+![2](photo/2.png)
+![3](photo/3.png)
 
 
 
